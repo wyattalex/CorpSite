@@ -47,13 +47,10 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Creek</a>
+                                            <a href="#">Brisbane</a>
                                         </li>
                                         <li>
                                             <a href="#">Melbourne</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
                                             <a href="#">Sydney</a>
